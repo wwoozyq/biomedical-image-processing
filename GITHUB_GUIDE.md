@@ -25,7 +25,7 @@ git add .
 git commit -m "Initial commit"
 
 # 关联远程仓库（替换your-username）
-git remote add origin https://github.com/your-username/biomedical-image-processing.git
+git remote add origin https://github.com/wwoozyq/biomedical-image-processing.git
 
 # 推送
 git branch -M main
