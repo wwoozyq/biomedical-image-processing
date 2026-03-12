@@ -44,3 +44,6 @@ env/
 # Temporary files
 *.tmp
 ~*
+
+# API credentials
+api.py
