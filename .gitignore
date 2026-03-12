@@ -47,3 +47,4 @@ env/
 
 # API credentials
 api.py
+test_api.py
